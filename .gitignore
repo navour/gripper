@@ -1,0 +1,4 @@
+**/.git/
+**/.conda/
+**/__pycache__/
+*.py[cod]

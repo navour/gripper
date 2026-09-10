@@ -1,0 +1,15 @@
+Safe Modbus Tc Precheck Result
+============================================================
+Time: 2026-04-25T09:34:31.551471
+Port: COM4
+Slave: 1
+Duration: 3.0s
+Samples: 28
+
+Host pos span: 0.3438 deg (mean=-9.9858)
+AS abs span: 0.3438 deg (mean=88.1045)
+Filtered torque std: 0.046776 N*m (mean=0.034036)
+External torque std: 0.297210 N*m (mean=-0.146286)
+contact_count: 0
+clamp_count: 0
+invalid_as_count: 0
